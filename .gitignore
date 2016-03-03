@@ -1,0 +1,8 @@
+# MAC files
+.DS_Store
+# IJ cruft
+.idea
+*.iml
+# proj dependencies etc.
+node_modules
+lib/*
